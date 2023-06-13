@@ -14,3 +14,5 @@ This a set of notebooks introducing the Chatgpt prompt aspects for developers wh
   - Transforming
   - Expanding
 - Build a ChatBot
+
+Notebooks based on the [DeepLearning Prompt Engineering Courses](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
